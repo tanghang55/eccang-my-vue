@@ -1,14 +1,17 @@
-# vue-project
+# eccang-my-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+易仓个人学习项目
 
-## Recommended IDE Setup
+#登录
+![登录](https://github.com/tanghang55/eccang-my-vue/blob/main/public/img/851681829136_.pic.jpg?raw=true)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+#注册
+![注册](https://github.com/tanghang55/eccang-my-vue/blob/main/public/img/861681829159_.pic.jpg?raw=true)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+#列表
+![列表](https://github.com/tanghang55/eccang-my-vue/blob/main/public/img/871681829172_.pic.jpg?raw=true)
+
 
 ## Project Setup
 
@@ -27,4 +30,6 @@ npm run dev
 ```sh
 npm run build
 ```
-# eccang-my-vue
+
+
+
